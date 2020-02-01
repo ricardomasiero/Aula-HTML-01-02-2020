@@ -1,0 +1,13 @@
+/* RESET */
+body {
+  background-color: #f15722; /* Cor primária do cliente */ 
+}
+
+#listaMenu {
+    background-color: rgb(255,0,255);
+}
+
+.fundo-azul {
+    background-color: blue;
+    border: 2px dashed black;
+}
